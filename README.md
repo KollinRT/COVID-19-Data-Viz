@@ -1,6 +1,6 @@
 # How to run
 
-1. Create a venv, see [this](https://www.geeksforgeeks.org/create-virtual-environment-using-venv-python/).
+1. Create a venv, see [this](https://www.geeksforgeeks.org/create-virtual-environment-using-venv-python/.
 ) `python -m venv ./venv`
 2. Activate venv (`source venv/bin/activate` on mac) (look to source it on device on link for #1)
 3. Install packages (`pip install -r requirements.txt`)
